@@ -1,0 +1,19 @@
+{
+  "name": "imgshare",
+  "version": "1.0.0",
+  "description": "ImgShare but in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Img-Share/ImgShare.JS.git"
+  },
+  "author": "zurgeg, TheDiamondK",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Img-Share/ImgShare.JS/issues"
+  },
+  "homepage": "https://github.com/Img-Share/ImgShare.JS#readme"
+}
